@@ -1,0 +1,18 @@
+[
+  {
+    "package": "Deriv",
+    "oncran": true
+  },
+  {
+    "package": "kvh",
+    "oncran": true
+  },
+  {
+    "package": "r2sundials",
+    "oncran": true
+  },
+  {
+    "package": "rmumps",
+    "oncran": true
+  }
+]
