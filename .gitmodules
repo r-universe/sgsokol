@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "arrApply"]
+	path = arrApply
+	url = https://github.com/sgsokol/arrapply
+	shallow = true
+	registered = true
 [submodule "Deriv"]
 	path = Deriv
 	url = https://github.com/sgsokol/deriv
@@ -11,6 +16,11 @@
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/sgsokol/kvh
+	shallow = true
+	registered = true
+[submodule "multbxxc"]
+	path = multbxxc
+	url = https://github.com/sgsokol/multbxxc
 	shallow = true
 	registered = true
 [submodule "r2sundials"]
