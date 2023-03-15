@@ -1,10 +1,10 @@
 [
   {
-    "package": "kvh",
+    "package": "Deriv",
     "oncran": true
   },
   {
-    "package": "rmumps",
+    "package": "kvh",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "Deriv",
+    "package": "rmumps",
     "oncran": true
   }
 ]
