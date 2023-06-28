@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "arrApply"]
 	path = arrApply
 	url = https://github.com/sgsokol/arrapply
-	shallow = true
-	registered = true
 [submodule "Deriv"]
 	path = Deriv
 	url = https://github.com/sgsokol/deriv
-	shallow = true
-	registered = true
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/sgsokol/kvh
-	shallow = true
-	registered = true
 [submodule "multbxxc"]
 	path = multbxxc
 	url = https://github.com/sgsokol/multbxxc
-	shallow = true
-	registered = true
 [submodule "r2sundials"]
 	path = r2sundials
 	url = https://github.com/sgsokol/r2sundials
-	shallow = true
-	registered = true
 [submodule "rmumps"]
 	path = rmumps
 	url = https://github.com/sgsokol/rmumps
-	shallow = true
-	registered = true
