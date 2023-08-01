@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "arrApply"]
-	path = arrApply
-	url = https://github.com/sgsokol/arrapply
 [submodule "Deriv"]
 	path = Deriv
 	url = https://github.com/sgsokol/deriv
+[submodule "arrApply"]
+	path = arrApply
+	url = https://github.com/sgsokol/arrapply
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/sgsokol/kvh
