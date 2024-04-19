@@ -13,7 +13,7 @@
 	url = https://github.com/sgsokol/kvh
 [submodule "multbxxc"]
 	path = multbxxc
-	url = https://github.com/sgsokol/multbxxc
+	url = https://github.com/sgsokol/influx
 [submodule "r2sundials"]
 	path = r2sundials
 	url = https://github.com/sgsokol/r2sundials
