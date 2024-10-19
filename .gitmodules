@@ -8,6 +8,9 @@
 [submodule "arrApply"]
 	path = arrApply
 	url = https://github.com/sgsokol/arrapply
+[submodule "gmresls"]
+	path = gmresls
+	url = https://github.com/cran/gmresls
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/sgsokol/kvh
