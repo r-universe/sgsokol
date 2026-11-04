@@ -23,6 +23,3 @@
 [submodule "r2sundials"]
 	path = r2sundials
 	url = https://github.com/sgsokol/r2sundials
-[submodule "rmumps"]
-	path = rmumps
-	url = https://github.com/sgsokol/rmumps
